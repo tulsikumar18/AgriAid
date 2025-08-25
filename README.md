@@ -97,6 +97,8 @@ AgriAid/
 </p>
 
 
-![Screenshot 3](./assests/images/output3.jpg)
-![Screenshot 4](./assests/images/output4.jpg)
-![Screenshot 5](./assests/images/output5.jpg)
+<p align="center">
+  <img src="./assests/images/output3.jpg" alt="Screenshot 3" width="250"/>
+  <img src="./assests/images/output4.jpg" alt="Screenshot 4" width="250"/>
+  <img src="./assests/images/output5.jpg" alt="Screenshot 5" width="250"/>
+</p>

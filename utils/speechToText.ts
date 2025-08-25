@@ -30,7 +30,7 @@ const RECORDING_OPTIONS = {
 };
 
 // Speech-to-text API using Google Cloud Speech-to-Text via RapidAPI
-const RAPID_API_KEY = "37ea18fb2fmsh75430a0c01b2db3p1a2365jsn7c6dedeadc24";
+const RAPID_API_KEY = "";
 const RAPID_API_HOST = "speech-to-text13.p.rapidapi.com";
 const RAPID_API_URL = "https://speech-to-text13.p.rapidapi.com/speech-to-text";
 

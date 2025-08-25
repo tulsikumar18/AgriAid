@@ -2,7 +2,7 @@ import { DiagnosisResult } from "@/types/diagnosis";
 import { translateWithGemini } from "@/utils/geminiApi";
 
 // Using the RapidAPI Google Translate endpoint
-const RAPID_API_KEY = "37ea18fb2fmsh75430a0c01b2db3p1a2365jsn7c6dedeadc24";
+const RAPID_API_KEY = "";
 const RAPID_API_HOST = "google-translate113.p.rapidapi.com";
 const RAPID_API_URL = "https://google-translate113.p.rapidapi.com/api/v1/translator/text";
 

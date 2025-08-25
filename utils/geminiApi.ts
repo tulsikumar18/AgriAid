@@ -2,7 +2,7 @@ import { Platform } from "react-native";
 import * as FileSystem from "expo-file-system";
 
 // Gemini API key
-const GEMINI_API_KEY = "AIzaSyDwB_le4SphgM4d1rZReqnxVJWbp1vO2m8";
+const GEMINI_API_KEY = "";
 const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models";
 const GEMINI_MODEL = "gemini-1.5-flash";
 

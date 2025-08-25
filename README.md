@@ -85,4 +85,11 @@ AgriAid/
 
 📸 Demo
 
-(Add screenshots or GIF previews of your application here.)
+
+## 📸 Demo
+
+![Screenshot 1](./assets/images/Output1.jpg)
+![Screenshot 2](./assets/images/Output2.jpg)
+![Screenshot 3](./assets/images/output3.jpg)
+![Screenshot 4](./assets/images/output4.jpg)
+![Screenshot 5](./assets/images/output5.jpg)

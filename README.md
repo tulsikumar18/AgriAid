@@ -1,4 +1,4 @@
-AgriAid 🌱
+<h1> AgriAid </h1>
 
 AgriAid is an AI-powered agricultural assistant designed to detect plant diseases and provide farmers with real-time, actionable insights.
 Built for inclusivity and accessibility, AgriAid supports text, image, and voice inputs, making it usable even in rural areas with low literacy or limited technical exposure.
@@ -8,47 +8,23 @@ Introduction
 AgriAid leverages machine learning models trained on diverse crop datasets and integrates Gemini API for smart predictions.
 The system is designed to be scalable and runs across multiple devices, ensuring it reaches the maximum number of users.
 
-Key Features
+<h2> Key Features </h2>
 
 Multimodal Input: Diagnose crops through text, image, or voice.
-
 Multilingual & Voice Output: Communicates in users’ native languages for wider accessibility.
-
 AI-Based Detection: Identifies plant diseases in real time using trained ML models.
-
 Inclusive Design: Simple and intuitive UI suitable for users with low literacy levels.
-
 Offline-Ready: Functions in low-connectivity areas with local processing.
 
-Why It Matters
+<h2> Why It Matters? </h2> 
 
 Faster diagnosis leads to reduced crop loss.
-
 Empowers farmers with accessible, localized technology.
-
 Brings AI for all – no technical skills required.
-
 Supports sustainable agriculture through precision solutions.
 
-Target Users
 
-Farmers
-
-Agricultural Officers
-
-Researchers
-
-Impact
-
-AgriAid helps to:
-
-Improve crop yield
-
-Reduce agricultural losses
-
-Deliver real-time predictions and farming insights
-
-🛠️ Prerequisites
+<h2> 🛠️ Prerequisites</h2> 
 
 Node.js (LTS version recommended)
 
@@ -58,7 +34,7 @@ Gemini API Key (for AI responses)
 
 RapidAPI Key (for speech-to-text and translation services)
 
-⚙️ Setup Instructions 
+<h2> ⚙️ Setup Instructions </h2> 
 
 1. Clone the Repository
 
@@ -108,7 +84,7 @@ The application will open in Expo Go.
 
 
 
-## 📸 Demo
+<h2> ## 📸 Demo</h2> 
 
 
 ## Screenshots

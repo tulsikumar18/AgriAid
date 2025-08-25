@@ -92,8 +92,8 @@ AgriAid/
 ## Screenshots
 
 <p align="center">
-  <img src="assets/images/Output1.png" alt="Screenshot 1" width="250"/>
-  <img src="assets/images/Output2.png" alt="Screenshot 2" width="250"/>
+  <img src="assests/images/Output1.png" alt="Screenshot 1" width="250"/>
+  <img src="assests/images/Output2.png" alt="Screenshot 2" width="250"/>
 </p>
 
 

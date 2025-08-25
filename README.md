@@ -11,16 +11,23 @@ The system is designed to be scalable and runs across multiple devices, ensuring
 <h2> Key Features </h2>
 
 Multimodal Input: Diagnose crops through text, image, or voice.
+
 Multilingual & Voice Output: Communicates in users’ native languages for wider accessibility.
+
 AI-Based Detection: Identifies plant diseases in real time using trained ML models.
+
 Inclusive Design: Simple and intuitive UI suitable for users with low literacy levels.
+
 Offline-Ready: Functions in low-connectivity areas with local processing.
 
 <h2> Why It Matters? </h2> 
 
 Faster diagnosis leads to reduced crop loss.
+
 Empowers farmers with accessible, localized technology.
+
 Brings AI for all – no technical skills required.
+
 Supports sustainable agriculture through precision solutions.
 
 
@@ -55,7 +62,7 @@ Windows (PowerShell)
 
 myenv\Scripts\Activate.ps1
 
-3. Install Dependencies (Already done her in  Myenv)
+3. Install Dependencies (If not done ,Already done here in  Myenv)
 
 npm install
 

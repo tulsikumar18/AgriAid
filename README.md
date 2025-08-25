@@ -1,20 +1,52 @@
 AgriAid 🌱
 
-Multilingual Smart Plant Disease Detection Application
+AgriAid is an AI-powered agricultural assistant designed to detect plant diseases and provide farmers with real-time, actionable insights.
+Built for inclusivity and accessibility, AgriAid supports text, image, and voice inputs, making it usable even in rural areas with low literacy or limited technical exposure.
 
-AgriAid is an AI-powered cross-platform application built with React Native (Expo). It enables farmers and agricultural communities to identify plant diseases and receive multilingual support through integrated AI models. The app leverages speech-to-text, translation, and Gemini API for real-time, interactive disease detection assistance.
+Introduction
 
-🚀 Features
+AgriAid leverages machine learning models trained on diverse crop datasets and integrates Gemini API for smart predictions.
+The system is designed to be scalable and runs across multiple devices, ensuring it reaches the maximum number of users.
 
-Plant Disease Detection with AI models.
+Key Features
 
-Multilingual Support for accessibility.
+Multimodal Input: Diagnose crops through text, image, or voice.
 
-Voice Input via speech-to-text API.
+Multilingual & Voice Output: Communicates in users’ native languages for wider accessibility.
 
-Cross-Platform – runs on Android, iOS, and Web (via Expo).
+AI-Based Detection: Identifies plant diseases in real time using trained ML models.
 
-Lightweight & Scalable frontend built on Expo + React Native.
+Inclusive Design: Simple and intuitive UI suitable for users with low literacy levels.
+
+Offline-Ready: Functions in low-connectivity areas with local processing.
+
+Why It Matters
+
+Faster diagnosis leads to reduced crop loss.
+
+Empowers farmers with accessible, localized technology.
+
+Brings AI for all – no technical skills required.
+
+Supports sustainable agriculture through precision solutions.
+
+Target Users
+
+Farmers
+
+Agricultural Officers
+
+Researchers
+
+Impact
+
+AgriAid helps to:
+
+Improve crop yield
+
+Reduce agricultural losses
+
+Deliver real-time predictions and farming insights
 
 🛠️ Prerequisites
 
@@ -74,16 +106,6 @@ Scan the QR code from the terminal/browser using the Expo Go app on your mobile 
 
 The application will open in Expo Go.
 
-📂 Project Structure
-AgriAid/
-│── utils/
-│    ├── geminiApi.ts          # Gemini API integration
-│    ├── speechToText.ts       # Speech-to-text API config
-│    └── translate.ts          # Translation API config
-│── package.json
-│── App.tsx (or main entry file)
-
-📸 Demo
 
 
 ## 📸 Demo
